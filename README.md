@@ -6,7 +6,7 @@ Data Cleaning and Transforming:
 - Standardizing Data.
 - Correcting data types such as Date, Int.
 - Filling and Replacing alternative values for empty and incorrect value containing cells.
-- Applying Primary key for uniqeness.
+- Applying Primary key for uniqueness.
 
 Finding some insights:
 - Total Quantity by Region
